@@ -1,0 +1,7 @@
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\obj\Debug\pjTransporte.csprojAssemblyReference.cache
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\obj\Debug\pjTransporte.csproj.CoreCompileInputs.cache
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\bin\Debug\pjTransporte.exe.config
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\bin\Debug\pjTransporte.exe
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\bin\Debug\pjTransporte.pdb
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\obj\Debug\pjTransporte.exe
+D:\Documentos\Roberto\estrutura de dados 2\pjTransporte\pjTransporte\obj\Debug\pjTransporte.pdb
