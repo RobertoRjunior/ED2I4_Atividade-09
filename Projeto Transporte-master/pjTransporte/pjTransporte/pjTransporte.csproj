@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C4537716-AF30-4436-82FD-1D7CD32A73F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>projTransporte</RootNamespace>
-    <AssemblyName>projTransporte</AssemblyName>
+    <RootNamespace>pjTransporte</RootNamespace>
+    <AssemblyName>pjTransporte</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
